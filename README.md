@@ -1,2 +1,2 @@
-# ChatGPT-for-Ethical-Hackers
-ChatGPT for Ethical Hackers, by EC-Council
+# Master-ChatGPT-for-Ethical-Hacking
+Master ChatGPT for Ethical Hacking, by EC-Council
